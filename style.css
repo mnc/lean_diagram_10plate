@@ -154,10 +154,10 @@ h1 {
   border-right: 1px solid #525252;
   border-top: 1px solid #525252;
 }
-.content__narrow {
+.content--small {
   min-height: 70px;
 }
-.content p {
+.content__entry {
   margin-left: 5px;
   margin-top: 5px;
 }
